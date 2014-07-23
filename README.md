@@ -5,7 +5,9 @@ NodeJS--AngularJS-and-Mongo-DB-training-project
 ################################################
 ############### GETTING STARTED ################
 ################################################
+
 To get things working basically we have to do 2 set of things:
+
 1. Git settings at the website
 
 a. After creating an account at github.com, we have to authorise our machine at the server:
