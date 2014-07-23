@@ -18,7 +18,6 @@ a. After creating an account at github.com, we have to authorise our machine at 
 	(Optional) Test: (it should report successfully authenticated)
 		ssh -T git@github.com
 
-
 2. Checkout the project (everything in terminal) at a local computer:
 
 a. Make sure git is installed in the system
